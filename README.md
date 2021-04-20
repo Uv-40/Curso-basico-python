@@ -1,9 +1,7 @@
 # Curso-basico-python
 Curso basico de python de la ruta data science
 
-# Curso Básico de Python
-
-- [Curso Básico de Python](#curso-básico-de-python)
+- [Curso Básico de Python](#curso-básico-python)
   - [Modulo 1 Introduccion a la programacion con Python](#modulo-1-introduccion-a-la-programacion-con-python)
     - [Clase 1 EL arte de la programacion](#clase-1-el-arte-de-la-programacion)
     - [Clase 2 Por que Python](#clase-2-por-que-python)
