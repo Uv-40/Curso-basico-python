@@ -142,23 +142,31 @@ Python siempre sigue el orden de las operaciones aritméticas, ante la duda siem
 
 ### Clase 9 Que es una variable
 
-Una variable es una caja donde puedes guardar un objeto, cada variable tiene un identificador en memoria
+Una variable hablando coloquialmente es una caja donde puedes guardar un objeto o varios (numeros, texto, etc), cada variable tiene un identificador (nombre) en memoria.
+
+para guardar objetos o variables, primero se asigna un nombre y se pone =  (el igual significa asignacion) luego del igual se asigna un valor a la variable ej:
 
 ```py
 >>> numero = 3
 >>> print(numero)
 3
->>> numero2 = 5
->>> numero3 = numero + numero2
->>> print(numero)
+>>> numero1 = 5
+>>> numero2 = 6
+>>> numero-resultado = numero1 + numero2
+>>> print(numero-resultado)
 8
 ```
 
-Reglas para variables
+Reglas para el identificador de las variables
 
-- nunca iniciar con números o símbolos
-- usar minúsculas si solo es una palabra
-- usar camel_case si son varias palabras
+- No puede comenzar con números o símbolos
+- debe estar en minusculas
+- las palabras se separan con guion bajo es decir utilizar metodologia camel_case si son varias palabras
+- no se pueden usar nombres reservados por Python (and,assert,break,class,continue,def,del,elif,else,except,exec,finally,
+or,from,global,if,import,in,is,lambda,not,or,pass,print,raise,return,try,
+while) entre otros.
+
+Link de interes: https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PythonForDataScience.pdf
 
 ### Clase 10 Los primitivos: tipos de datos sencillos
 
