@@ -1,81 +1,102 @@
-Curso Básico de Python
-Curso Básico de Python
-Modulo 1 Introduccion a la programacion con Python
-Clase 1 EL arte de la programacion
-Clase 2 Por que Python
-Clase 3 El núcleo de un programa: los algoritmos
-Clase 4 Instalación de nuestras herramientas (en Windows)
-Clase 5 Instalacion de nuestras herramientas en Mac
-Clase 6 Instalacion de nuestras herramientas en Ubuntu
-Clase 7 Tu mejor herramienta: la consola
-Modulo 2 Conceptos basicos de Python
-Clase 8 Explorando Python: operadores aritméticos
-Clase 9 Que es una variable
-Clase 10 Los primitivos: tipos de datos sencillos
-Clase 11 Convertir un dato a un tipo diferente
-Clase 12 Operadores logicos y de comparacion
-Clase 13 Tu primer programa: conversor de monedas
-Modulo 3 Herramientas para programar
-Clase 14 Construyendo el camino de un programa con condicionales
-Clase 15 Varios paises en mi conversor de monedas
-Clase 16 Aprendiendo a no repetir codigo con funciones
-Clase 17 Modularizando nuestro conversor de monedas
-Clase 18 Trabajando con texto: cadenas de caracteres
-Clase 19 Trabajando con texto: slices
-Clase 20 Proyecto: palindromo
-Modulo 4 Bucles
-Clase 21 Aprendiendo bucles
-Clase 22 El ciclo while
-Clase 23 Explorando un bucle diferente: el ciclo for
-Clase 24 Recorriendo un string con for
-Clase 25 Interrumpiendo ciclos con break y continue
-Clase 26 Proyecto: prueba de primalidad
-Clase 27 Proyecto: videojuego
-Modulo 5 Estructuras de datos
-Clase 28 Almacenar varios valores en una variable: listas
-Clase 29 Entendiendo cómo funcionan las tuplas
-Clase 30 Que son los diccionarios
-Clase 31 Proyecto: generador de contrasenas
-Modulo 1 Introduccion a la programacion con Python
-Clase 1 EL arte de la programacion
+# Curso Básico de Python
+
+- [Curso Básico de Python](#curso-básico-de-python)
+  - [Modulo 1 Introduccion a la programacion con Python](#modulo-1-introduccion-a-la-programacion-con-python)
+    - [Clase 1 EL arte de la programacion](#clase-1-el-arte-de-la-programacion)
+    - [Clase 2 Por que Python](#clase-2-por-que-python)
+    - [Clase 3 El núcleo de un programa: los algoritmos](#clase-3-el-núcleo-de-un-programa-los-algoritmos)
+    - [Clase 4 Instalación de nuestras herramientas (en Windows)](#clase-4-instalación-de-nuestras-herramientas-en-windows)
+    - [Clase 5 Instalacion de nuestras herramientas en Mac](#clase-5-instalacion-de-nuestras-herramientas-en-mac)
+    - [Clase 6 Instalacion de nuestras herramientas en Ubuntu](#clase-6-instalacion-de-nuestras-herramientas-en-ubuntu)
+    - [Clase 7 Tu mejor herramienta: la consola](#clase-7-tu-mejor-herramienta-la-consola)
+  - [Modulo 2 Conceptos basicos de Python](#modulo-2-conceptos-basicos-de-python)
+    - [Clase 8 Explorando Python: operadores aritméticos](#clase-8-explorando-python-operadores-aritméticos)
+    - [Clase 9 Que es una variable](#clase-9-que-es-una-variable)
+    - [Clase 10 Los primitivos: tipos de datos sencillos](#clase-10-los-primitivos-tipos-de-datos-sencillos)
+    - [Clase 11 Convertir un dato a un tipo diferente](#clase-11-convertir-un-dato-a-un-tipo-diferente)
+    - [Clase 12 Operadores logicos y de comparacion](#clase-12-operadores-logicos-y-de-comparacion)
+    - [Clase 13 Tu primer programa: conversor de monedas](#clase-13-tu-primer-programa-conversor-de-monedas)
+  - [Modulo 3 Herramientas para programar](#modulo-3-herramientas-para-programar)
+    - [Clase 14 Construyendo el camino de un programa con condicionales](#clase-14-construyendo-el-camino-de-un-programa-con-condicionales)
+    - [Clase 15 Varios paises en mi conversor de monedas](#clase-15-varios-paises-en-mi-conversor-de-monedas)
+    - [Clase 16 Aprendiendo a no repetir codigo con funciones](#clase-16-aprendiendo-a-no-repetir-codigo-con-funciones)
+    - [Clase 17 Modularizando nuestro conversor de monedas](#clase-17-modularizando-nuestro-conversor-de-monedas)
+    - [Clase 18 Trabajando con texto: cadenas de caracteres](#clase-18-trabajando-con-texto-cadenas-de-caracteres)
+    - [Clase 19 Trabajando con texto: slices](#clase-19-trabajando-con-texto-slices)
+    - [Clase 20 Proyecto: palindromo](#clase-20-proyecto-palindromo)
+  - [Modulo 4 Bucles](#modulo-4-bucles)
+    - [Clase 21 Aprendiendo bucles](#clase-21-aprendiendo-bucles)
+    - [Clase 22 El ciclo while](#clase-22-el-ciclo-while)
+    - [Clase 23 Explorando un bucle diferente: el ciclo for](#clase-23-explorando-un-bucle-diferente-el-ciclo-for)
+    - [Clase 24 Recorriendo un string con for](#clase-24-recorriendo-un-string-con-for)
+    - [Clase 25 Interrumpiendo ciclos con break y continue](#clase-25-interrumpiendo-ciclos-con-break-y-continue)
+    - [Clase 26 Proyecto: prueba de primalidad](#clase-26-proyecto-prueba-de-primalidad)
+    - [Clase 27 Proyecto: videojuego](#clase-27-proyecto-videojuego)
+  - [Modulo 5 Estructuras de datos](#modulo-5-estructuras-de-datos)
+    - [Clase 28  Almacenar varios valores en una variable: listas](#clase-28-almacenar-varios-valores-en-una-variable-listas)
+    - [Clase 29 Entendiendo cómo funcionan las tuplas](#clase-29-entendiendo-cómo-funcionan-las-tuplas)
+    - [Clase 30 Que son los diccionarios](#clase-30-que-son-los-diccionarios)
+    - [Clase 31 Proyecto: generador de contrasenas](#clase-31-proyecto-generador-de-contrasenas)
+
+## Modulo 1 Introduccion a la programacion con Python
+
+### Clase 1 EL arte de la programacion
+
 Programar es darle instrucciones a la computadora para que realce un trabajo especifico.
 
-Clase 2 Por que Python
+### Clase 2 Por que Python
+
 Antes de elegir un nuevo lenguaje para aprender debemos pensar primero que queremos lograr o realizar (ciencia de datos, backend, frontend, desarrollo de videojuegos, desarrollo movil, iot, DevOps, etc).
 
 Python esta en todos lados (google, spotify, platzi, etc)
 
 Ventajas:
 
-Fácil
-Elegante
-Buenas practicas
-Clase 3 El núcleo de un programa: los algoritmos
-Algoritmo se define por tener estas caracteristicas:
+- Fácil
+- Elegante
+- Buenas practicas
 
-Una serie de pasos para resolver un problema
-Finito
-No ambiguo
-Clase 4 Instalación de nuestras herramientas (en Windows)
-1.- Instalacion del editor de código de tu elección. (VScode) 2.- Uso de terminal, el profesor utiliza cmder (me quedo con ubuntu) 3.- Instalacion de python 3
+### Clase 3 El núcleo de un programa: los algoritmos
 
-Clase 5 Instalacion de nuestras herramientas en Mac
+ Algoritmo se define por tener estas caracteristicas:
+
+- Una serie de  pasos para resolver un problema
+- Finito
+- No ambiguo
+
+### Clase 4 Instalación de nuestras herramientas (en Windows)
+
+1.- Instalacion del editor de código de tu elección. (VScode)
+2.- Uso de terminal, el profesor utiliza cmder (me quedo con ubuntu)
+3.- Instalacion de python 3
+
+### Clase 5 Instalacion de nuestras herramientas en Mac
+
 Nota: Si usas una mac el proceso es el mismo para instalar cualquier programa, descarga e instala VScode y python3.
 
-Clase 6 Instalacion de nuestras herramientas en Ubuntu
+### Clase 6 Instalacion de nuestras herramientas en Ubuntu
+
 Nota: Si usas una distro de linux el proceso es el mismo para instalar cualquier programa, descarga e instala VScode y python3.
 
-Clase 7 Tu mejor herramienta: la consola
+### Clase 7 Tu mejor herramienta: la consola
+
 Comandos básicos Unix
 
-1.- control+L (Limpieza a la consola) 2.- mkdir mi_carpeta (Crear carpeta) 3.- ls (Listar archivos y directorios del directorio actual) 4.- cd mi_carpeta (Ingresar a la nueva carpeta)
+1.- control+L (Limpieza a la consola)
+2.- mkdir mi_carpeta (Crear carpeta)
+3.- ls (Listar archivos y directorios del directorio actual)
+4.- cd mi_carpeta (Ingresar a la nueva carpeta)
 
-Para profundizar en comandos (si eres nuevo usuario) mira el curso de termina y linea de comandos en platzi. https://platzi.com/clases/terminal/
+Para profundizar en comandos (si eres nuevo usuario) mira el curso de termina y linea de comandos en platzi.
+<https://platzi.com/clases/terminal/>
 
-Modulo 2 Conceptos basicos de Python
-Clase 8 Explorando Python: operadores aritméticos
+## Modulo 2 Conceptos basicos de Python
+
+### Clase 8 Explorando Python: operadores aritméticos
+
 Usando la consola interactiva de python realizamos lo siguiente
 
+```py
 #Suma (+)
 >>> 5+5
 5
@@ -107,13 +128,22 @@ Usando la consola interactiva de python realizamos lo siguiente
 #Python respeta las reglas matemáticas que dice
 >>> 5 + 5 * 2
 15
+```
+
 Python siempre sigue el orden de las operaciones aritméticas, ante la duda siempre recuerda PEMDAS.
 
-Paréntesis Exponentes Multiplicación División Adición Sustracción.
+**P**aréntesis
+**E**xponentes
+**M**ultiplicación
+**D**ivisión
+**A**dición
+**S**ustracción.
 
-Clase 9 Que es una variable
+### Clase 9 Que es una variable
+
 Una variable es una caja donde puedes guardar un objeto, cada variable tiene un identificador en memoria
 
+```py
 >>> numero = 3
 >>> print(numero)
 3
@@ -121,23 +151,30 @@ Una variable es una caja donde puedes guardar un objeto, cada variable tiene un 
 >>> numero3 = numero + numero2
 >>> print(numero)
 8
+```
+
 Reglas para variables
 
-nunca iniciar con números o símbolos
-usar minúsculas si solo es una palabra
-usar camel_case si son varias palabras
-Clase 10 Los primitivos: tipos de datos sencillos
+- nunca iniciar con números o símbolos
+- usar minúsculas si solo es una palabra
+- usar camel_case si son varias palabras
+
+### Clase 10 Los primitivos: tipos de datos sencillos
+
 En python todo es un objeto
 
 Los tipos de datos primitivos en python:
 
-int: entero (3)
-float: números con punto flotante (4.0)
-str: cadenas de texto o strings ('hola mundo')
-bool: booleano (1 o 0), (True o False)
-Clase 11 Convertir un dato a un tipo diferente
-En python podemos convertir a conveniencia los tipos de datos primitivos
+- int: entero (3)
+- float: números con punto flotante (4.0)
+- str: cadenas de texto o strings ('hola mundo')
+- bool: booleano (1 o 0), (True o False)
 
+### Clase 11 Convertir un dato a un tipo diferente
+
+En python podemos convertir  a conveniencia los tipos de datos primitivos
+
+```py
 #Convertir un dato a un tipo diferente
 >>> nombre_variable = input( “Ingresa texto”)
 >>> numero1 = input(“Escribe un numero:”)
@@ -164,18 +201,23 @@ En python podemos convertir a conveniencia los tipos de datos primitivos
 #CONVERTIR DE NUMERO A TEXTO
 str(numero1)
 '4'
-Clase 12 Operadores logicos y de comparacion
-and para comparar si dos valores son verdaderos.
-or para comparar si dos valores son falsos.
-not para invertir el valor booleano.
-== Compara dos valores y te dice si son iguales o no.
-!= Compara dos valores y te dice sin son diferentes o no.
-> Compara si es mayor que otro valor.
-> Compara si es menor que otro valor.
->= igual o mayor que el valor a comparar.
-<= igual o menor que el valor a comparar
+```
+
+### Clase 12 Operadores logicos y de comparacion
+
+- **and** para comparar si dos valores son verdaderos.
+- **or** para comparar si dos valores son falsos.
+- **not** para invertir el valor booleano.
+- **==** Compara dos valores y te dice si son iguales o no.
+- **!=** Compara dos valores y te dice sin son diferentes o no.
+- **>** Compara si es mayor que otro valor.
+- **>** Compara si es menor que otro valor.
+- **>=** igual o mayor que el valor a comparar.
+- **<=** igual o menor que el valor a comparar
+
 Ejemplos de la clase en consola interactiva de python
 
+```py
 >>> es_estudiante = True
 >>> es_estudiante
 True
@@ -213,7 +255,11 @@ True
 >>> numero1 <= numero3
 True
 >>>
-Clase 13 Tu primer programa: conversor de monedas
+```
+
+### Clase 13 Tu primer programa: conversor de monedas
+
+```py
 # Convertir pesos a dolares
 pesos = input("¿Cuántos pesos tienes? ")
 pesos = float(pesos)
@@ -235,8 +281,13 @@ pesos = round(pesos, 2)
 pesos = str(pesos)
 
 print("Tienes $" + pesos + "pesos")```
-Modulo 3 Herramientas para programar
-Clase 14 Construyendo el camino de un programa con condicionales
+```
+
+## Modulo 3 Herramientas para programar
+
+### Clase 14 Construyendo el camino de un programa con condicionales
+
+```py
 # # Ejemplo 1
 # edad = int(input ("Escribe tu edad :"))
 # if edad > 17:
@@ -253,7 +304,12 @@ elif numero == 5:
     print("Es igual a 5")
 elif numero < 5:
     print("Es menor a 5")
-Clase 15 Varios paises en mi conversor de monedas
+
+```
+
+### Clase 15 Varios paises en mi conversor de monedas
+
+```py
 # conversor de pesos a dolares
 
 menu = """
@@ -291,7 +347,11 @@ elif opcion == 3:
     dolares = round(dolares, 2)
     dolares = str(dolares)
     print("Tienes $" + dolares + " dólares")
-Clase 16 Aprendiendo a no repetir codigo con funciones
+```
+
+### Clase 16 Aprendiendo a no repetir codigo con funciones
+
+```py
 # def imprimir_mensaje():
 #     print("Mensaje Especial : ")
 #     print("¡Estoy aprendiendo a usar funciones!")
@@ -317,9 +377,13 @@ elif opcion == 3:
     conversacion("Elegiste la opcion 3")
 else:
     print("Escribe la opcion correcta")
-Clase 17 Modularizando nuestro conversor de monedas
+```
+
+### Clase 17 Modularizando nuestro conversor de monedas
+
 Esta clase hace la introduccion del keyword return, retorna el valor de una funcion.
 
+```py
 #Este programa convierte una cantidad de dolares a pesos mexicanos
 
 #Primero definimos nuestras funciones
@@ -350,9 +414,13 @@ elif opcion == 3:
     conversor("mexicanos",24)
 else:
     print("Opcion incorrecta, Gracias por participar")
-Clase 18 Trabajando con texto: cadenas de caracteres
-Método: es una funcion especial para un tipo de dato en particular.
+```
 
+### Clase 18 Trabajando con texto: cadenas de caracteres
+
+**Método:** es una funcion especial  para un tipo de dato en particular.
+
+```py
 #METODOS:
 variable.upper() #Todos los caracteres en MAYÚSCULAS
 variable.capitalize() #solo la primera en MAYÚSCULA
@@ -378,9 +446,13 @@ input()
 
 >>> nombre[2]
 's'
-Clase 19 Trabajando con texto: slices
-Los slices o rebanadas son una extension de los indices, usando el key ":" permite indicar a python del string dame la información desde el indice uno hasta el indice 10 [1:10], podemos agregar pasos para ir de dos en dos, dos en tres [1:10:2] o al revés [1:10:-1]
+```
 
+### Clase 19 Trabajando con texto: slices
+
+Los slices o rebanadas son una extension de los indices,  usando el key ":" permite indicar a python del string dame la información desde el indice uno hasta el indice 10 [1:10], podemos agregar pasos para ir de dos en dos, dos en tres [1:10:2] o al revés [1:10:-1]
+
+```py
 >>> nombre = "Francisco"
 >>> nombre
 'Francisco'
@@ -405,7 +477,11 @@ Los slices o rebanadas son una extension de los indices, usando el key ":" permi
 >>> nombre[::-1]
 'ocsicnarF'
 >>>
-Clase 20 Proyecto: palindromo
+```
+
+### Clase 20 Proyecto: palindromo
+
+```py
 def palindromo(palabra):
     palabra = palabra.lower()
     palabra = palabra.replace(' ', '')
@@ -425,21 +501,28 @@ def run():
 
 if __name__ == '__main__':
     run()
-if __name__ == '__main__' es el entry-point de los programas en python, si internamente el nombre de este programa es main, ejecuta el codigo debajo de este, los modulos de python (programas de python en carpetas llamados por el script principal) no tienen esta instrucción.
+```
 
-Modulo 4 Bucles
-Clase 21 Aprendiendo bucles
+`if __name__ == '__main__'` es el entry-point de los programas en python, si internamente el nombre de este programa es main, ejecuta el codigo debajo de este, los modulos de python (programas de python en carpetas llamados por el script principal) no tienen esta instrucción.  
+
+## Modulo 4 Bucles
+
+### Clase 21 Aprendiendo bucles
+
 Un bucle es un ciclo continuo en todos los lenguajes de programacion, que nos permite iterar sobre nuestros pasos, imagina un contador cíclico (1,2,3,4,5,6...) donde puedes agregar un paso mas sobre tu programa principal.
 
 Un bucle de la vida real
 
-Despertar
-Estudiar en platzi
-Comer
-Dormir
+- Despertar
+- Estudiar en platzi
+- Comer
+- Dormir
+
 Cuando repetimos estas acciones en ese orden, durante un tiempo determinado o infinito estamos hablando de un bucle.
 
-Clase 22 El ciclo while
+### Clase 22 El ciclo while
+
+```py
 def run():
     LIMITE = 1000000
     contador = 0
@@ -452,7 +535,11 @@ def run():
 
 if __name__ == "__main__":
     run()
-Clase 23 Explorando un bucle diferente: el ciclo for
+```
+
+### Clase 23 Explorando un bucle diferente: el ciclo for
+
+```py
 def imprimir_numero(inicio, fin):
     for inicio in range(fin+1):
         print(f'Numero: {inicio}')
@@ -485,9 +572,13 @@ def run():
 
 if __name__ == "__main__":
     run()
-Clase 24 Recorriendo un string con for
+```
+
+### Clase 24 Recorriendo un string con for
+
 Ejemplo 1
 
+```py
 def run():
     ## Este ejemplo imprime cada caracter de tu nombre
     nombre = input("Escribe tu nombre :")
@@ -496,8 +587,12 @@ def run():
 
 if __name__ == "__main__":
     run()
+
+```
+
 Ejemplo 2
 
+```py
 def run():
     frase = input("Escribe una frase : ")
     for caracter in frase:
@@ -507,9 +602,14 @@ def run():
 
 if __name__ == "__main__":
     run()
-Clase 25 Interrumpiendo ciclos con break y continue
+
+```
+
+### Clase 25 Interrumpiendo ciclos con break y continue
+
 Ejemplo1
 
+```py
 def run():
     for i in range(10000):
         print(i)
@@ -518,8 +618,11 @@ def run():
 
 if __name__ == '__main__':
     run()
+```
+
 ejemplo 2
 
+```py
 def run():
     for contador in range(1000):
         if contador % 2 != 0:
@@ -528,8 +631,11 @@ def run():
 
 if __name__ == '__main__':
     run()
+```
+
 ejemplo 3
 
+```py
 def run():
     texto= input('Escribe un texto: ')
     for letra in texto:
@@ -539,7 +645,11 @@ def run():
 
 if __name__ == '__main__':
     run()
-Clase 26 Proyecto: prueba de primalidad
+```
+
+### Clase 26 Proyecto: prueba de primalidad
+
+```py
 def es_primo(numero):
     if numero == 1:
         return False
@@ -566,7 +676,11 @@ def run():
 
 if __name__ == "__main__":
     run()
-Clase 27 Proyecto: videojuego
+```
+
+### Clase 27 Proyecto: videojuego
+
+```py
 import random
 
 def run():
@@ -583,10 +697,15 @@ def run():
 
 if __name__ == "__main__":
     run()
-Modulo 5 Estructuras de datos
-Clase 28 Almacenar varios valores en una variable: listas
+```
+
+## Modulo 5 Estructuras de datos
+
+### Clase 28  Almacenar varios valores en una variable: listas
+
 Las listas pertenecen a las estructuras de datos en python, pueden almacenar distintos tipos de primitivos u otras estructuras de datos dentro de una misma lista
 
+```py
 #declarar lista
 my_lista = []
 my_lista = list()
@@ -648,17 +767,25 @@ my_lista # [1,2,3,4,5,6]
 #organizar una lista
 my_lista = [2,5,1,3,4]
 my_lista.sort() #[1,2,3,4,5]
+
+```
+
 ALgunos metodos adicionales
 
+```py
 .sorted() # También ordena como sort() pero modifica la lista inicial
 .clear() # vaciá la lista
 .count() # Cuenta las veces que esta un elemento en lista
 .index() #--> Indica la posición donde esta un elemento de la lista
 .insert() #--> Inserta un elemento en una posición dada ej: lista.insert(posición,item)
 .reverse() #--> Le da la vuelta a una lista
-Clase 29 Entendiendo cómo funcionan las tuplas
+```
+
+### Clase 29 Entendiendo cómo funcionan las tuplas
+
 Las tuplas son estructuras de datos inmutables es decir, no puedes modificar una tupla "a" agregando o quitando un valor, lo único que puedes hacer es definir de nuevo esa tupla "a". Los objetos inmutables (como los strings) son tipos de datos para python que apuntan a un lugar especifico en memoria y que su contenido no puede ser cambiado, al cambiar el contenido predefiniendo el contenido de la variable "a" entonces cambiara su posición en memoria.
 
+```py
 #declarar tupla
 mi_tupla = ()
 mi_tupla = (1,2,3)
@@ -683,7 +810,11 @@ mi_tupla.count(1) #3 el numero 1 aparece 3 veces en la tupla
 mi_tupla.index(3) #5 indice de la primera instancia donde se encuentra un elemento
 mi_tupla.index(1) #0
 mi_tupla.index(2) #3
-Clase 30 Que son los diccionarios
+```
+
+### Clase 30 Que son los diccionarios
+
+```py
 # Definir función principal
 def run():
     # Defino el diccionario, agrego los valores.
@@ -712,7 +843,11 @@ def run():
 
 if __name__ == '__main__':
     run()
-Clase 31 Proyecto: generador de contrasenas
+```
+
+### Clase 31 Proyecto: generador de contrasenas
+
+```py
 def generar_contrasena():
     mayusculas = ["A","B","C","D","E","F","G","H"]
     minusculas = ["a","b","c","d","e","f","g","h"]
@@ -734,3 +869,4 @@ def run():
 
 if __name__ == "__main__":
     run()
+```
