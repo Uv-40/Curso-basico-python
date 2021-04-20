@@ -161,7 +161,7 @@ Reglas para el identificador de las variables
 
 - No puede comenzar con números o símbolos
 - debe estar en minusculas
-- las palabras se separan con guion bajo es decir utilizar metodologia camel_case si son varias palabras
+- las palabras se separan con guion bajo es decir utilizar metodologia snake_case si son varias palabras
 - no se pueden usar nombres reservados por Python (and,assert,break,class,continue,def,del,elif,else,except,exec,finally,
 or,from,global,if,import,in,is,lambda,not,or,pass,print,raise,return,try,
 while) entre otros.
@@ -175,13 +175,17 @@ En python todo es un objeto
 Los tipos de datos primitivos en python:
 
 - int: entero (3)
-- float: números con punto flotante (4.0)
-- str: cadenas de texto o strings ('hola mundo')
+- float: números con punto flotante (4.0) es decir decimales
+- str: cadenas de texto (caracteres) o strings ('hola mundo')
 - bool: booleano (1 o 0), (True o False)
+
+Cuando se suman variables con valores de texto Python concatena los textos
+
+Para ver el tipo de un objeto se puede hacer con la funcion type; type(nombre_de_variable)
 
 ### Clase 11 Convertir un dato a un tipo diferente
 
-En python podemos convertir  a conveniencia los tipos de datos primitivos
+En python podemos convertir a conveniencia los tipos de datos primitivos
 
 ```py
 #Convertir un dato a un tipo diferente
