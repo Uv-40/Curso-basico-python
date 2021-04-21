@@ -196,7 +196,7 @@ En python podemos convertir a conveniencia los tipos de datos primitivos
 '4’
 
 >>> numero2 = input(“Escribe un numero”)
->>> print(2)
+>>> print(numero2)
 '5’
 
 
@@ -219,14 +219,14 @@ str(numero1)
 ### Clase 12 Operadores logicos y de comparacion
 
 - **and** para comparar si dos valores son verdaderos.
-- **or** para comparar si dos valores son falsos.
-- **not** para invertir el valor booleano.
+- **or** para comparar si alguno de los valores es verdadero.
+- **not** para invertir el valor booleano (true or false).
 - **==** Compara dos valores y te dice si son iguales o no.
 - **!=** Compara dos valores y te dice sin son diferentes o no.
 - **>** Compara si es mayor que otro valor.
-- **>** Compara si es menor que otro valor.
-- **>=** igual o mayor que el valor a comparar.
-- **<=** igual o menor que el valor a comparar
+- **<** Compara si es menor que otro valor.
+- **>=** mayor o igual que el valor a comparar.
+- **<=** menor o igual que el valor a comparar
 
 Ejemplos de la clase en consola interactiva de python
 
@@ -261,7 +261,7 @@ False
 True
 >>> numero1 >= numero3
 False
->>> numero1 >= numero2
+>>> numero1 <= numero2
 True
 >>> numero1 <= numero2
 True
