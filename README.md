@@ -552,7 +552,7 @@ if __name__ == "__main__":
 
 ### Clase 23 Explorando un bucle diferente: el ciclo for
 
-El ciclo for nos permite en menos linea que el ciclo while generar algoritmos que se repitan en un rango de veces con la funcion in range (inicio, fin)
+El ciclo for nos permite en menos linea que el ciclo while generar algoritmos que se repitan en un rango de veces con la funcion in range (inicio, fin) ejemplo aunque el rango termine un punto antes del fin definido en los parametros:
 
 ```py
 def imprimir_numero(inicio, fin):
@@ -590,6 +590,8 @@ if __name__ == "__main__":
 ```
 
 ### Clase 24 Recorriendo un string con for
+
+el ciclo for nos permite recorrer los caracteres de una cadena de texto "String"
 
 Ejemplo 1
 
