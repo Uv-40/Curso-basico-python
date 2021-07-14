@@ -831,6 +831,11 @@ mi_tupla.index(2) #3
 
 ### Clase 30 Que son los diccionarios
 
+Es una estructura de datos que permite guardar un conjunto no ordenado por pares, donde el primer parametro es la llave o indice y el segundo es un valor; las llaves se caracterizan por se unicas en cada diccionario.
+
+Los diccionarios se definen en python con 'llaves' {}
+
+
 ```py
 # Definir función principal
 def run():
